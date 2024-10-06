@@ -22,7 +22,5 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
    - Configure libraries and ML models on Raspberry Pi for running the application.
    - Integrate with a user interface (UI) for enhanced accessibility and ease of use.
    - Connect the USB microphone.
-  
-##Algorithm Workflow
 
 ![Algorithm workflow][Project_Images/algorithm workflow.png]
