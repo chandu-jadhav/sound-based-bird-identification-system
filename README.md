@@ -18,5 +18,7 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
 ## Installation
 
 1. **Set Up Raspberry Pi**:
-   - Install the latest version of Raspberry Pi OS on your device.
+    Install the latest version of Raspberry Pi OS on your device.
+   - Configure libraries and ML models on Raspberry Pi for running the application.
+   - Integrate with a user interface (UI) for enhanced accessibility and ease of use.
    - Connect the USB microphone.
