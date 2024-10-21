@@ -42,5 +42,5 @@ This is where User is Supposed to Record the input Audio for which he/she needs 
 ## Output window 
 Following is how User will receive the Predicted Output for Sound He/she has given to System
 
-![Output_Window](Output_Window/Output_Window.png)
+![Output_Window](Project_Images/Output_Window.png)
 
