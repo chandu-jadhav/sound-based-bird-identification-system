@@ -24,7 +24,8 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
    - Connect the USB microphone.
   
 ## Raspberry-Pi Setup 
-# Prerequisite tools we need for setup are Putty terminal for establising connection with raspberry Pi and Thony Compiler for integrating ML Model in Raspberry-Pi
+
+ **Prerequisite tools we need for setup are Putty terminal for establising connection with raspberry Pi and Thony Compiler for integrating ML Model in Raspberry-Pi**
 
 1. After Successful installation of Raspbian pi Operating system in raspberry pi motherboard we
 provide default raspberry pi login credentials to access the Raspbian os in the putty terminal Where
@@ -32,6 +33,25 @@ default user name of raspberry pi is root then we run one more command ipconfig 
 show Ip configuration of raspberry.
 
 ![1](Project_Images/1.png)
+
+
+![2](Project_Images/2.png)
+
+2. Here with the help of remote desktop present in windows we use ip address of raspberry pi which
+we received after running ipconfig command which helps for connecting remote desktop of
+windows with remote desktop of raspberry pi.
+
+
+![3](Project_Images/3.png)
+
+Once the successfully credentials are entered the establishment of connection starts between
+windows remote desktop and raspberry pi 
+
+![4](Project_Images/4.png)
+
+After the successful connection of remote desktop and raspberry pi os we can enter the user
+credentials to access Raspbian os
+
 
 ## Algorithm workflow
 
