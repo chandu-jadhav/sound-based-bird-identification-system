@@ -29,5 +29,5 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
 
 ## Login Page
 
-![Login Page](Project_Images/Login_page.png)
+![Login Page](Project_Images/Login_Page.png)
 
