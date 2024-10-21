@@ -28,6 +28,19 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
 ![Algorithm workflow](Project_Images/algorithm_workflow.png)
 
 ## Login Page
+This is What Landing page of User Interface for User to log in on.
 
 ![Login Page](Project_Images/Login_Page.png)
+
+
+## Recording Page 
+This is where User is Supposed to Record the input Audio for which he/she needs to predict the Bird Species 
+
+![Recording_Page](Project_Images/RecordingPage.png)
+
+
+## Output window 
+Following is how User will receive the Predicted Output for Sound He/she has given to System
+
+![Output_Window](Output_Window/Output_Window.png)
 
