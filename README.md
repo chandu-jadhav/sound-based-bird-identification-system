@@ -26,3 +26,7 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
 ## Algorithm workflow
 
 ![Algorithm workflow](Project_Images/algorithm_workflow.png)
+
+##Login Page
+![Login Page](Project_Images/Login_page.png)
+
