@@ -22,6 +22,16 @@ This project is a Sound-Based Bird Identification System using a Raspberry Pi to
    - Configure libraries and ML models on Raspberry Pi for running the application.
    - Integrate with a user interface (UI) for enhanced accessibility and ease of use.
    - Connect the USB microphone.
+  
+## Raspberry-Pi Setup 
+# Prerequisite tools we need for setup are Putty terminal for establising connection with raspberry Pi and Thony Compiler for integrating ML Model in Raspberry-Pi
+
+1. After Successful installation of Raspbian pi Operating system in raspberry pi motherboard we
+provide default raspberry pi login credentials to access the Raspbian os in the putty terminal Where
+default user name of raspberry pi is root then we run one more command ipconfig command to
+show Ip configuration of raspberry.
+
+![1](Project_Images/1.png)
 
 ## Algorithm workflow
 
